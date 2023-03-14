@@ -79,7 +79,7 @@ void loop() {
 
 float getTemperature() {
   int sensorValue = analogRead(LM35);
-  float voltage = sensorValue * (5.0 / 1023.0);
-  float temperature = voltage * 60.0;
+  float voltage = sensorValue * (5.0 / 1853.0);
+  float temperature = voltage * 100;
   return temperature;
 }
