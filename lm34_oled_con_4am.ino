@@ -7,7 +7,7 @@
 
 ConsentiumThings board; // create ConsentiumThing object
 
-const char *ssid = "ABBE SALE"; // add WiFi SSID
+const char *ssid = "amit"; // add WiFi SSID
 const char *pass = "1234alibaba.com"; // add WiFi password
 const long interval = 5; // take 5 seconds of delay
 const char *key = "EZIIOZC8MTPDGWGSHEDSZA"; // Write api key
