@@ -1,4 +1,4 @@
-# DC-Sir-new
+# Measure temprature from lm35
 lm35-ol 1.3 -con-esp66
 
 MEASURE TEMPRAURE AND SHOW THE DATA ON OLED
